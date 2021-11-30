@@ -2,14 +2,6 @@
 [![Johns's github stats](https://github-readme-stats.vercel.app/api?username=john4064&count_private=true&show_icons=true&theme=cobalt&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats) 
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=john4064&repo=github-readme-stats&layout=compact" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=john4064&repo=convoychat" />
-</a>
-
-
 
 
 <!--Github stats-->
