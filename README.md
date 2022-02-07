@@ -3,7 +3,7 @@
 
 
 
-![](https://github.com/john4064/github-stats/blob/master/generated/overview.svg)
+[](https://github.com/john4064/github-stats/blob/master/generated/overview.svg)
 
 
 
