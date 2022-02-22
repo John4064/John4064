@@ -4,8 +4,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=john4064)](https://github.com/john4064/github-readme-stats)
 
 
-[](https://github.com/john4064/github-stats/blob/master/generated/overview.svg)
-
 
 
 
